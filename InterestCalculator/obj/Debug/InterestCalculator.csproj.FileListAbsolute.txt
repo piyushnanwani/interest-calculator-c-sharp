@@ -1,0 +1,10 @@
+C:\Users\piyush.nanwani\Desktop\Backup\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe.config
+C:\Users\piyush.nanwani\Desktop\Backup\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe
+C:\Users\piyush.nanwani\Desktop\Backup\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.pdb
+C:\Users\piyush.nanwani\Desktop\Backup\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.csprojResolveAssemblyReference.cache
+C:\Users\piyush.nanwani\Desktop\Backup\InterestCalculator\InterestCalculator\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\piyush.nanwani\Desktop\Backup\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.Properties.Resources.resources
+C:\Users\piyush.nanwani\Desktop\Backup\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.csproj.GenerateResource.Cache
+C:\Users\piyush.nanwani\Desktop\Backup\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.exe.licenses
+C:\Users\piyush.nanwani\Desktop\Backup\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.exe
+C:\Users\piyush.nanwani\Desktop\Backup\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.pdb
